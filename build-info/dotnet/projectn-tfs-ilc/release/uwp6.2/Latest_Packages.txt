@@ -1,0 +1,1 @@
+Microsoft.Private.NetNative.Framework 2.2.2-rel-27421-00
